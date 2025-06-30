@@ -1,0 +1,51 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How far in advance should I book my portable toilet rental in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We recommend booking at least 7–10 days in advance, especially during spring and summer, though we can accommodate last-minute requests when units are available.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often are the portable toilets serviced during long-term rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">All long-term rentals include weekly service. We offer additional service schedules upon request based on unit usage and customer needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your units compliant with local and federal regulations?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. All our units meet OSHA standards and ADA requirements where applicable. We are also members of PSAI and follow EPA waste disposal guidelines.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent portable toilets for just one day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We offer single-day rentals for events and functions, with prompt delivery and same-day pickup options.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is included in the rental price?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our quotes are all-inclusive. The price covers the rental of the unit, delivery, professional placement, scheduled servicing (for long-term rentals), and final pickup. There are no hidden fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you provide sanitation for large-scale events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we have the inventory and team capacity to manage large festivals, corporate events, and construction sites with 50+ units or more.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
